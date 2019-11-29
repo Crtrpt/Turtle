@@ -1,0 +1,16 @@
+{
+	"name":"wamp",
+	"cmd":{
+		"start":"",
+		"reload":"",
+		"stop":"",
+	},
+	"dep":[
+		"nginx-1.10.3",
+		"php-5.6",
+		"mysql-5.7",
+	],
+	"repository":[
+			""	
+	]
+}
