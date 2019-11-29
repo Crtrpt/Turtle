@@ -3,9 +3,7 @@
 	"cmd":{
 		"start":"",
 		"stop":"",
-		"reload":"",
-		"cmdA":"cmd ======",
-		"cmdB":"cmd ======",
+		"reload":""
 	},
 	"dep":[
 		"nginx-1.10.3",
